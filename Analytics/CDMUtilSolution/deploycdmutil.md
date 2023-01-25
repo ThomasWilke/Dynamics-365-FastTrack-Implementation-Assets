@@ -1,5 +1,5 @@
 # Deploy CDMUtil as Function App 
-To atomate reading and writing of CDM metadata, CDMUtil can be deployed as an Azure Function App. Follow the steps below to deploy and configure.
+To automate reading and writing of CDM metadata, CDMUtil can be deployed as an Azure Function App. Follow the steps below to deploy and configure.
 
 ## Prerequisites
 To deploy and use the CDMUtil solution to Azure, the following pre-requisites are required:
